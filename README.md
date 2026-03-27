@@ -1,22 +1,15 @@
 <h1>Hi, I'm Rana Salal Ali <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
+<img align='right' src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="230" alt="Coding gif">
 
-<table border="0">
-  <tr>
-    <td valign="top">
-      <p>
-        Data &amp; Machine Learning Engineer who likes building practical systems, tinkering with new tools, and learning by making.
-      </p>
-      <p>
-        <a href="https://linkedin.com/in/ranasalalali/">
-          <img src="https://img.shields.io/badge/LinkedIn-ranasalalali-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn badge" />
-        </a>
-      </p>
-    </td>
-    <td valign="top">
-      <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="180" alt="Coding gif" />
-    </td>
-  </tr>
-</table>
+<p>
+  Data &amp; Machine Learning Engineer who likes building practical systems, tinkering with new tools, and learning by making.
+</p>
+
+<p>
+  <a href="https://linkedin.com/in/ranasalalali/">
+    <img src="https://img.shields.io/badge/LinkedIn-ranasalalali-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn badge" />
+  </a>
+</p>
 
 ```python
 class Rana:
