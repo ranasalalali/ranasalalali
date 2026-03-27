@@ -1,26 +1,35 @@
 <h1>Hi, I'm Rana Salal Ali <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 
-<img align="right" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="220" alt="Coding gif" />
-
-<p>
-  Data &amp; Machine Learning Engineer who likes building practical systems, tinkering with new tools, and learning by making.
-</p>
-
-<p>
-  <a href="https://linkedin.com/in/ranasalalali/">
-    <img src="https://img.shields.io/badge/LinkedIn-ranasalalali-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn badge" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td>
+      <p>
+        Data &amp; Machine Learning Engineer who likes building practical systems, tinkering with new tools, and learning by making.
+      </p>
+      <p>
+        <a href="https://linkedin.com/in/ranasalalali/">
+          <img src="https://img.shields.io/badge/LinkedIn-ranasalalali-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn badge" />
+        </a>
+      </p>
+    </td>
+    <td>
+      <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="180" alt="Coding gif" />
+    </td>
+  </tr>
+</table>
 
 ```python
 class Rana:
-    role = "Data & Machine Learning Engineer"
-    likes = ["mlops", "automation", "agentic workflows"]
-    approach = "learn by building"
-    current_state = "tinkering"
+    title = "Data & Machine Learning Engineer"
+    operating_mode = "curious tinkerer"
+    builds = ["practical systems", "automations", "useful AI workflows"]
+    learning_style = "touch the thing and see what happens"
 
-    def uses_ai_for(self):
-        return ["work", "everyday life", "finding better ways to do both"]
+    def current_quest(self):
+        return "making AI actually useful instead of just loudly impressive"
+
+    def default_response_to_new_tools(self):
+        return "...okay but what happens if I wire this into something else?"
 ```
 
 ### Currently tinkering with
