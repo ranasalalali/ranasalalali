@@ -1,9 +1,20 @@
-# Rana Salal Ali
+<h1>Hi, I'm Rana Salal Ali <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 
-Data & machine learning engineer.
+<p>
+  Data &amp; Machine Learning Engineer who likes building practical systems, tinkering with new tools, and learning by making.
+</p>
 
-I like building practical systems, tinkering with new tools, and learning by making.
+<p>
+  <a href="https://linkedin.com/in/ranasalalali/">
+    <img src="https://img.shields.io/badge/LinkedIn-ranasalalali-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn badge" />
+  </a>
+</p>
 
-Currently exploring agentic workflows, automation, and ways to use AI more effectively in work and everyday life.
-
-[LinkedIn](https://linkedin.com/in/ranasalalali/)
+```python
+rana = {
+    "role": "Data & Machine Learning Engineer",
+    "interests": ["mlops", "automation", "agentic workflows"],
+    "approach": "learn by building",
+    "currently": "exploring useful AI for work and everyday life",
+}
+```
