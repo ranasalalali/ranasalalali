@@ -18,3 +18,8 @@ rana = {
     "currently": "exploring useful AI for work and everyday life",
 }
 ```
+
+### Currently tinkering with
+- agentic workflows
+- automation for useful everyday tasks
+- making AI more practical at work
